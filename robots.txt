@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cernezenkol-cell.github.io/otdihukraine/sitemap.xml
